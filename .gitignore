@@ -1,0 +1,28 @@
+# Java
+*.class
+*.jar
+*.war
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environment
+venv/
+.env/
+.venv/
+
+# VSCode (혹시 열 때 대비)
+.vscode/
+
+# macOS / Windows 시스템 파일
+.DS_Store
+Thumbs.db
